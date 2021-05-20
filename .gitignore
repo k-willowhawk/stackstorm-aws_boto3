@@ -93,3 +93,6 @@ ENV/
 # Editor saves
 *~
 *-
+
+# MacOS trash
+.DS_Store
